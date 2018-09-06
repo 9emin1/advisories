@@ -5,11 +5,16 @@ Quoting from the WordPress Plugin site (https://wordpress.org/plugins/wpforo/)..
 
 The forum plugin suffers from a privilege escalation vulnerability, whereby any registered forum user can escalate his privilege to become the forum administrator without any form of user interaction.
 
-There is no details provided by the vendor during the release of 1.5.2, which fixes this vulnerability.  
+~~There is no details provided by the vendor during the release of 1.5.2, which fixes this vulnerability.  
 This approach is unsightly as it will prevent users from having the urgency to update their vulnerable version.  
-(https://wpforo.com/community/wpforo-announcements/wpforo-1-5-2-is-released/)  
+(https://wpforo.com/community/wpforo-announcements/wpforo-1-5-2-is-released/)~~
 
-In future, any vulnerabilities discovered in this number one forum plugin will most likely, very probably, be disclosed and dropped as a 0-day
+~~In future, any vulnerabilities discovered in this number one forum plugin will most likely, very probably, be disclosed and dropped as a 0-day~~
+
+After voicing my opinion regarding the lack of information provided in the release, additional information has now been included in the release information!  
+(https://wpforo.com/community/wpforo-announcements/wpforo-1-5-2-is-released/)
+
+This should provide more sense of urgency for users to update their vulnerable version
 
 # affected programs & issues
 
