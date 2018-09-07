@@ -2,7 +2,7 @@
 
 ## gVectors: WordPress Plugin -> wpForo Forums 1.5.1 
 ### Privilege Escalation
-PENDING CVE  
+CVE-2018-16613  
 
 ## Bento4 SDK and Tools v1-5-0-615
 ### NULL Pointer Dereference
